@@ -39,6 +39,8 @@ tidy_trump_tfidf<- trumptweets %>%
 top_tfidf<-tidy_trump_tfidf %>%
   arrange(desc(tf_idf))
 
+gygdbehv
+
 top_tfidf$word[1]
 tidy_trump_tfidf$word
 
